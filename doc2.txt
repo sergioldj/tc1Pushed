@@ -1,2 +1,3 @@
 linha-01
 linha-02 do doc-02
+linha-03 adicionada - 11:00
